@@ -1,0 +1,9 @@
+nav{
+    height:75px ;
+    background-color: aqua;
+}
+ol{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
